@@ -35,7 +35,7 @@ This solution aims to prevent drunk driving accidents by integrating hardware co
 
 ## Circuit Diagram  
 ![Circuit Diagram](diagram.png)  
-*(Replace `circuit_diagram.jpg` with the actual path to your circuit diagram image in the project folder.)*  
+ 
 
 ---
 
@@ -82,14 +82,12 @@ This solution aims to prevent drunk driving accidents by integrating hardware co
 - **SMS Alert**:  
 WARNING: Driver is intoxicated! Vehicle stopped. Location: Latitude: 28.7041, Longitude: 77.1025
 
-markdown
-Copy code
+
 
 - **Serial Monitor Output**:  
 System Initialized. Average Alcohol Level: 350 GPS LOCATION NOT FOUND WARNING: Driver is intoxicated! Vehicle stopped.
 
-markdown
-Copy code
+
 
 ---
 
